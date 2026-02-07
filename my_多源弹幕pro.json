@@ -1,0 +1,12 @@
+{
+  "widgets": [
+    {
+      "id": "danmu.pro.online.v6",
+      "title": "弹幕多源 (6源增强版)",
+      "description": "集成6个弹幕源，支持屏蔽词过滤",
+      "author": "User & MakkaPakka",
+      "version": "1.2.0",
+      "url": "https://raw.githubusercontent.com/tbwjoker/My-Forward-Widgets/refs/heads/main/多源弹幕pro.js"
+    }
+  ]
+}
